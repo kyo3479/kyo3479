@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyo3479&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kyo3479)](https://solved.ac/kyo3479)
